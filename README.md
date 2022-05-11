@@ -1,1 +1,3 @@
-# turn-taking
+# Turn-taking
+- Intial release of code modelling speaker turn-taking using markov and semi-markov models
+- Notebooks coming soon...
